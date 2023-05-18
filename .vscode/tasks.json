@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"command": "crystal run ${file}",
+			"problemMatcher": [],
+			"label": "Crystal: run -"
+		}
+	]
+}
